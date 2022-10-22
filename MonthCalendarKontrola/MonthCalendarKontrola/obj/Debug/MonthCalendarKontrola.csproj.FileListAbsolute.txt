@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\bin\Debug\MonthCalendarKontrola.exe.config
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\bin\Debug\MonthCalendarKontrola.exe
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\bin\Debug\MonthCalendarKontrola.pdb
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.Form1.resources
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.Properties.Resources.resources
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.exe
+C:\Users\HP\source\repos\MonthCalendarKontrola\MonthCalendarKontrola\obj\Debug\MonthCalendarKontrola.pdb
